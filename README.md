@@ -14,31 +14,49 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+        <span><strong>HTML5</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+        <span><strong>CSS3</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <span><strong>JAVASCRIPT</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
+      <td width="25%" align="center">
+        <span><strong>RUBY</strong></span><br><br><br>
+        <img height="64px" src="https://miro.medium.com/max/1024/1*Y-QdVVj1adXj745T7rMKMg.png">
+      </td>
+    </tr>
+    <tr valign="top">
       <td width="25%" align="center">
         <span><strong>React</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
+      <td width="25%" align="center">
+        <span><strong>NodeJs</strong></span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/color/2x/nodejs.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Ruby On Rails</strong></span><br><br><br>
+        <img height="64px" src="https://miro.medium.com/max/3840/1*6h1kck2QmGaC89ERN_W3UA.jpeg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Express JS</strong></span><br><br><br>
+        <img height="64px" src="https://i.morioh.com/8c8203b86e.png">
+      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Postgres</strong></span><br><br><br>
-        <img height="64px" src="https://blog.xojo.com/wp-content/uploads/2017/06/postgresql-card.png">
-      </td>
-      <td width="25%" align="center">
         <span><strong>MongoDB</strong></span><br><br><br>
         <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvk27FJ7keQnZLcglO7LP8Bo8HdNikQMeSNQ&usqp=CAU">
+      </td>
+            <td width="25%" align="center">
+        <span><strong>Postgres</strong></span><br><br><br>
+        <img height="64px" src="https://blog.xojo.com/wp-content/uploads/2017/06/postgresql-card.png">
       </td>
     </tr>
   </tbody>
